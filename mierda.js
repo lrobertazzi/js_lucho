@@ -661,3 +661,7 @@ var gatito2 = new Gatito("Chuletas", 7, 250);
 
 document.write("<br><br>"+gatito1.nombrecito);
 gatito1.Fuck();
+
+const saludar = () =>{
+    console.log("hola hola soy dolores")
+}
